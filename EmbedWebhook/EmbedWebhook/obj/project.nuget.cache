@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SG0cc6xpyPDtZXbOs3qIMb9SeGHbiTWxeLIbWuLFJ8K7CefoQCsFESG5Ye7Zcl3CTWQKo5u0/GC8b7CKlOoUPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mircolino\\Desktop\\NeueProgramms\\EmbedWebhook\\EmbedWebhook\\EmbedWebhook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mircolino\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Mircolino\Desktop\NeueProgramms\EmbedWebhook\EmbedWebhook\bin\Debug\net6.0\EmbedWebhook.exe
+C:\Users\Mircolino\Desktop\NeueProgramms\EmbedWebhook\EmbedWebhook\bin\Debug\net6.0\EmbedWebhook.deps.json
+C:\Users\Mircolino\Desktop\NeueProgramms\EmbedWebhook\EmbedWebhook\bin\Debug\net6.0\EmbedWebhook.runtimeconfig.json
+C:\Users\Mircolino\Desktop\NeueProgramms\EmbedWebhook\EmbedWebhook\bin\Debug\net6.0\EmbedWebhook.dll
+C:\Users\Mircolino\Desktop\NeueProgramms\EmbedWebhook\EmbedWebhook\bin\Debug\net6.0\EmbedWebhook.pdb
+C:\Users\Mircolino\Desktop\NeueProgramms\EmbedWebhook\EmbedWebhook\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Mircolino\Desktop\NeueProgramms\EmbedWebhook\EmbedWebhook\obj\Debug\net6.0\EmbedWebhook.csproj.AssemblyReference.cache
+C:\Users\Mircolino\Desktop\NeueProgramms\EmbedWebhook\EmbedWebhook\obj\Debug\net6.0\EmbedWebhook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mircolino\Desktop\NeueProgramms\EmbedWebhook\EmbedWebhook\obj\Debug\net6.0\EmbedWebhook.AssemblyInfoInputs.cache
+C:\Users\Mircolino\Desktop\NeueProgramms\EmbedWebhook\EmbedWebhook\obj\Debug\net6.0\EmbedWebhook.AssemblyInfo.cs
+C:\Users\Mircolino\Desktop\NeueProgramms\EmbedWebhook\EmbedWebhook\obj\Debug\net6.0\EmbedWebhook.csproj.CoreCompileInputs.cache
+C:\Users\Mircolino\Desktop\NeueProgramms\EmbedWebhook\EmbedWebhook\obj\Debug\net6.0\EmbedWebhook.csproj.CopyComplete
+C:\Users\Mircolino\Desktop\NeueProgramms\EmbedWebhook\EmbedWebhook\obj\Debug\net6.0\EmbedWebhook.dll
+C:\Users\Mircolino\Desktop\NeueProgramms\EmbedWebhook\EmbedWebhook\obj\Debug\net6.0\refint\EmbedWebhook.dll
+C:\Users\Mircolino\Desktop\NeueProgramms\EmbedWebhook\EmbedWebhook\obj\Debug\net6.0\EmbedWebhook.pdb
+C:\Users\Mircolino\Desktop\NeueProgramms\EmbedWebhook\EmbedWebhook\obj\Debug\net6.0\EmbedWebhook.genruntimeconfig.cache
+C:\Users\Mircolino\Desktop\NeueProgramms\EmbedWebhook\EmbedWebhook\obj\Debug\net6.0\ref\EmbedWebhook.dll
