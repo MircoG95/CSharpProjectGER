@@ -1,0 +1,17 @@
+C:\Users\thafner\source\repos\21_1_KA_AE\AufgabeFSK18\bin\Debug\net5.0-windows\AufgabeFSK18.exe
+C:\Users\thafner\source\repos\21_1_KA_AE\AufgabeFSK18\bin\Debug\net5.0-windows\AufgabeFSK18.deps.json
+C:\Users\thafner\source\repos\21_1_KA_AE\AufgabeFSK18\bin\Debug\net5.0-windows\AufgabeFSK18.runtimeconfig.json
+C:\Users\thafner\source\repos\21_1_KA_AE\AufgabeFSK18\bin\Debug\net5.0-windows\AufgabeFSK18.runtimeconfig.dev.json
+C:\Users\thafner\source\repos\21_1_KA_AE\AufgabeFSK18\bin\Debug\net5.0-windows\AufgabeFSK18.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\AufgabeFSK18\bin\Debug\net5.0-windows\ref\AufgabeFSK18.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\AufgabeFSK18\bin\Debug\net5.0-windows\AufgabeFSK18.pdb
+C:\Users\thafner\source\repos\21_1_KA_AE\AufgabeFSK18\obj\Debug\net5.0-windows\AufgabeFSK18.Form1.resources
+C:\Users\thafner\source\repos\21_1_KA_AE\AufgabeFSK18\obj\Debug\net5.0-windows\AufgabeFSK18.csproj.GenerateResource.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\AufgabeFSK18\obj\Debug\net5.0-windows\AufgabeFSK18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thafner\source\repos\21_1_KA_AE\AufgabeFSK18\obj\Debug\net5.0-windows\AufgabeFSK18.AssemblyInfoInputs.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\AufgabeFSK18\obj\Debug\net5.0-windows\AufgabeFSK18.AssemblyInfo.cs
+C:\Users\thafner\source\repos\21_1_KA_AE\AufgabeFSK18\obj\Debug\net5.0-windows\AufgabeFSK18.csproj.CoreCompileInputs.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\AufgabeFSK18\obj\Debug\net5.0-windows\AufgabeFSK18.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\AufgabeFSK18\obj\Debug\net5.0-windows\ref\AufgabeFSK18.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\AufgabeFSK18\obj\Debug\net5.0-windows\AufgabeFSK18.pdb
+C:\Users\thafner\source\repos\21_1_KA_AE\AufgabeFSK18\obj\Debug\net5.0-windows\AufgabeFSK18.genruntimeconfig.cache
