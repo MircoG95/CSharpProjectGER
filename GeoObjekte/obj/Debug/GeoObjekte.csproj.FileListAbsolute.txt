@@ -1,0 +1,12 @@
+C:\Users\michael.beck\source\repos\FIU21-1\SE-Grundlagen\GeoObjekte\bin\Debug\GeoObjekte.exe.config
+C:\Users\michael.beck\source\repos\FIU21-1\SE-Grundlagen\GeoObjekte\bin\Debug\GeoObjekte.exe
+C:\Users\michael.beck\source\repos\FIU21-1\SE-Grundlagen\GeoObjekte\bin\Debug\GeoObjekte.pdb
+C:\Users\michael.beck\source\repos\FIU21-1\SE-Grundlagen\GeoObjekte\obj\Debug\GeoObjekte.csproj.AssemblyReference.cache
+C:\Users\michael.beck\source\repos\FIU21-1\SE-Grundlagen\GeoObjekte\obj\Debug\GeoObjekte.Form1.resources
+C:\Users\michael.beck\source\repos\FIU21-1\SE-Grundlagen\GeoObjekte\obj\Debug\GeoObjekte.NeuerPunkt.resources
+C:\Users\michael.beck\source\repos\FIU21-1\SE-Grundlagen\GeoObjekte\obj\Debug\GeoObjekte.Properties.Resources.resources
+C:\Users\michael.beck\source\repos\FIU21-1\SE-Grundlagen\GeoObjekte\obj\Debug\GeoObjekte.csproj.GenerateResource.cache
+C:\Users\michael.beck\source\repos\FIU21-1\SE-Grundlagen\GeoObjekte\obj\Debug\GeoObjekte.csproj.CoreCompileInputs.cache
+C:\Users\michael.beck\source\repos\FIU21-1\SE-Grundlagen\GeoObjekte\obj\Debug\GeoObjekte.exe
+C:\Users\michael.beck\source\repos\FIU21-1\SE-Grundlagen\GeoObjekte\obj\Debug\GeoObjekte.pdb
+C:\Users\michael.beck\source\repos\FIU21-1\SE-Grundlagen\GeoObjekte\obj\Debug\GeoObjekte.NeueLinieFormular.resources
