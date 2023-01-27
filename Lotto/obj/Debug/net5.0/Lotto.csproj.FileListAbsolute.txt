@@ -1,0 +1,16 @@
+C:\Users\thafner\source\repos\21_1_KA_AE\Lotto\bin\Debug\net5.0\Lotto.exe
+C:\Users\thafner\source\repos\21_1_KA_AE\Lotto\bin\Debug\net5.0\Lotto.deps.json
+C:\Users\thafner\source\repos\21_1_KA_AE\Lotto\bin\Debug\net5.0\Lotto.runtimeconfig.json
+C:\Users\thafner\source\repos\21_1_KA_AE\Lotto\bin\Debug\net5.0\Lotto.runtimeconfig.dev.json
+C:\Users\thafner\source\repos\21_1_KA_AE\Lotto\bin\Debug\net5.0\Lotto.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Lotto\bin\Debug\net5.0\ref\Lotto.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Lotto\bin\Debug\net5.0\Lotto.pdb
+C:\Users\thafner\source\repos\21_1_KA_AE\Lotto\obj\Debug\net5.0\Lotto.csproj.AssemblyReference.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\Lotto\obj\Debug\net5.0\Lotto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thafner\source\repos\21_1_KA_AE\Lotto\obj\Debug\net5.0\Lotto.AssemblyInfoInputs.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\Lotto\obj\Debug\net5.0\Lotto.AssemblyInfo.cs
+C:\Users\thafner\source\repos\21_1_KA_AE\Lotto\obj\Debug\net5.0\Lotto.csproj.CoreCompileInputs.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\Lotto\obj\Debug\net5.0\Lotto.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Lotto\obj\Debug\net5.0\ref\Lotto.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Lotto\obj\Debug\net5.0\Lotto.pdb
+C:\Users\thafner\source\repos\21_1_KA_AE\Lotto\obj\Debug\net5.0\Lotto.genruntimeconfig.cache
