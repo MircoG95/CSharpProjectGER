@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td><a href="~/Index.cshtml">Main</a></td>
+            <td><a href="~/form03.cshtml">Eingabe</a></td>
+            <td><a href="~/ausgabe.cshtml">Anzeigen</a></td>
+            <td><a href="">Hilfe</a></td>
+        </tr>
+    </table>
+
+    <h1>Persönliche Daten</h1>
+    <form method="post" action="auswertung03.cshtml">
+        <table>
+            <tr>
+                <td><label>Geschlecht</label></td>
+                <td>
+                    <select id="geschlecht" name="geschlecht">
+                        <option value="1">Weiblich</option>
+                        <option value="2">Maennlich</option>
+                        <option value="3">Divers</option>
+                    </select>
+                </td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><label>Vorname</label></td>
+                <td><input id="vorname" name="vorname" type="text" /></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><label>Nachname</label></td>
+                <td><input id="nachname" name="nachname" type="text" /></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><label>Geburtstag</label></td>
+                <td><input id="geburt" name="geburt" type="date" /></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                    <input type="submit" value="Speichern" />
+                    <input type="button" value="Abbrechen" />
+                </td>
+            </tr>
+        </table>
+
+    </form>
+
+</body>
+</html>

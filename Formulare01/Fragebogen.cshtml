@@ -1,0 +1,93 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <form action="auswertung_fragebogen.cshtml" method="post">
+        <table border="1" cellspacing="0">
+            <colgroup>
+                <col width="25%" />
+                <col width="25%" />
+                <col width="25%" />
+                <col width="25%" />
+            </colgroup>
+
+            <tr>
+                <td colspan="4">Fragebogen</td>
+            </tr>
+            <tr>
+                <td colspan="2">Dozent</td>
+                <td colspan="2" rowspan="2">&nbsp;</td>
+            </tr>
+
+            <tr>
+                <td rowspan="2">
+                    Vorname
+                    <br />
+                    <input name="vorname" type="text" placeholder="Vorname des Dozenten" />
+                </td>
+                <td rowspan="2">
+                    Nachname
+                    <br />
+                    <input name="nachname" type="text" placeholder="Nachname des Dozenten" />
+                </td>
+            </tr>
+
+            <tr>
+                <td colspan="2">Themen</td>
+            </tr>
+
+            <tr>
+                <td colspan="2">
+                    Besonderheiten<br />
+                    <textarea name="besonderheiten" cols="10" rows="10"></textarea>
+                </td>
+                <td colspan="2">
+                    <input type="checkbox" name="themen" value="word" />Word<br />
+                    <input type="checkbox" name="themen" value="excel" />Excel<br />
+                    <input type="checkbox" name="themen" value="csharp" />C#<br />
+                    <input type="checkbox" name="themen" value="java" />Java<br />
+                    <input type="checkbox" name="themen" value="html" />HTML<br />
+                </td>
+            </tr>
+
+            <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+
+            @*<tr>
+                <td>Tage</td>
+                <td><input type="radio" name="r_tage" value="Nie" /> Nie</td>
+                <td><input type="radio" name="r_tage" value="OK" /> OK</td>
+                <td><input type="radio" name="r_tage" value="Absprache" /> Nach Absprache</td>
+            </tr>
+
+            <tr>
+                <td>Tage</td>
+                <td><input type="radio" name="r_montag" value="Nie" /> Nie</td>
+                <td><input type="radio" name="r_montag" value="OK" /> OK</td>
+                <td><input type="radio" name="r_montag" value="Absprache" /> Nach Absprache</td>
+            </tr>*@
+            @{
+                string[] namen = { "r_tage", "r_montag", "r_dienstag", "r_mittwoch", "r_donnerstag", "r_freitag", "r_samstag" };
+            }
+            @foreach (string name in namen)
+            {
+                <tr>
+                    <td>@(name.Substring(2,1).ToUpper()+@name.Substring(3))</td>
+                    <td><input type="radio" name="@name" value="Nie" checked /> Nie</td>
+                    <td><input type="radio" name="@name" value="OK" /> OK</td>
+                    <td><input type="radio" name="@name" value="Absprache" /> Nach Absprache</td>
+                </tr>
+            }
+
+        </table>
+
+        <input type="submit" value="Abschicken" />
+    </form>
+</body>
+</html>

@@ -1,0 +1,45 @@
+﻿@using Formulare01.Model
+@{
+    List<Person> pliste;
+    using (PersonenDB db = new PersonenDB())
+    {
+        pliste = db.GetPersonen();
+    }
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td><a href="~/Index.cshtml">Main</a></td>
+            <td><a href="~/form03.cshtml">Eingabe</a></td>
+            <td><a href="~/ausgabe.cshtml">Anzeigen</a></td>
+            <td><a href="">Hilfe</a></td>
+        </tr>
+    </table>
+
+    <h1>Personen</h1>
+    <table border="1">
+        <tr>
+            <th>Id</th>
+            <th>Vorname</th>
+            <th>Nachname</th>
+            <th>Geburt</th>
+            <th>Geschlecht</th>
+        </tr>
+        @foreach (Person p in pliste)
+        {
+            <tr>
+                <td>@p.Id</td>
+                <td>@p.Vorname</td>
+                <td>@p.Nachname.ToUpper()</td>
+                <td>@p.Geburt.ToString("d. MMMM yyyy")</td>
+                <td>@p.Geschlecht</td>
+            </tr>
+        }
+    </table>
+</body>
+</html>

@@ -1,0 +1,21 @@
+﻿@using Formulare01.Model
+
+@{
+    string geschlecht = Request["geschlecht"];
+    string vorname = Request["vorname"];
+    string nachname = Request["nachname"];
+    string geburt = Request["geburt"];
+
+    using (PersonenDB db = new PersonenDB())
+    {
+        Person p = new Person();
+        p.Vorname = vorname;
+        p.Nachname = nachname;
+        p.Geburt = DateTime.Parse(geburt);
+        p.Geschlecht = (Geschlecht)int.Parse(geschlecht);
+        db.InsertPerson(p);
+    }
+
+    Response.Redirect("~/form03.cshtml");
+
+}
